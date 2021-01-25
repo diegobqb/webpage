@@ -1,0 +1,12 @@
+# Add Authors here
+diegobarreto:
+   name: Diego Barreto
+   username: diegobarreto
+   site: https://www.youtube.com/channel/UCTT6LqmWV53OdwIJchQvFGg
+   avatar: diegobarreto.png
+   bio: "Oi eu sou Diego, programador e afixionado por YouTube"
+   social:
+      - title: "twitter"
+        url: "https://www.twitter.com/johndoe"
+      - title: "instagram"
+        url: "https://instagram.com/johndoe"
