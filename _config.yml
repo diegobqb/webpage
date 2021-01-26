@@ -4,7 +4,7 @@ title: "Canal Di Fora"
 description: "Ter uma idéia, escrever o roteiro, preparar a câmera, editar e subir para o YouTube."
 logo: 'assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
-baseurl: '/webpage'
+baseurl: ''
 google_analytics: 'UA-188126338-1'
 #disqus: 'demowebsite'
 mailchimp-list: 'https://canaldifora.us7.list-manage.com/subscribe/post?u=eb5ba1ecaefa643165a64733f&amp;id=c56856ab79'
@@ -19,9 +19,10 @@ authors:
     display_name: Diego Barreto
     avatar: assets/images/avatar.png
     email: canaldifora@gmail.com
-    web: https://www.youtube.com/channel/UCTT6LqmWV53OdwIJchQvFGg
+    instagram: https://www.instagram.com/diegobqb
     twitter: https://twitter.com/diegobqb
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    youtube: https://www.youtube.com/channel/UCTT6LqmWV53OdwIJchQvFGg
+    description: "Além de programador, eu sou muito fascinado pela criação de conteúdo no YouTube. Por isso eu criei o canal do YouTube chamado <a href='https://www.youtube.com/channel/UCTT6LqmWV53OdwIJchQvFGg'>Di Fora</a>."
   
 # Plugins
 plugins:
@@ -59,10 +60,10 @@ adsense-data-ad-client: "ca-pub-6722686573375023"
 adsense-data-ad-slot: "6397569963"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
