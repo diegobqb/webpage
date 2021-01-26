@@ -11,6 +11,7 @@ mailchimp-list: 'https://canaldifora.us7.list-manage.com/subscribe/post?u=eb5ba1
 include: ["_pages"]
 permalink: /post/:title/
 email: canaldifora@gmail.com
+lang: pt_BR
 
 # Authors
 authors:
