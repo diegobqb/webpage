@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
+<meta http-equiv="Content-Language" content="pt-br">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -95,13 +96,41 @@ ga('send', 'pageview');
     ================================================== -->
     <div class="newsletter text-center">
         <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Nunca mais perca uma <b>hist&oacute;ria</b>, inscreva-se na nossa lista.</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+        <form method="post" id="zcampaignOptinForm" class="wj-contact-form validate" action="https://maillist-manage.com/weboptin.zc" target="_zcSignup">
             <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Seu e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Inscreva-se" name="subscribe" class="heart">
+            <input type="email" placeholder="Seu e-mail" name="CONTACT_EMAIL" id="EMBED_FORM_EMAIL_LABEL" class="required email" autocomplete="on" required>
+            <input type="submit" value="Inscreva-se" name="SIGNUP_SUBMIT_BUTTON" id="zcWebOptin" class="heart">
             </div>
+            <input type="hidden" id="fieldBorder" value="">
+            <input type="hidden" id="submitType" name="submitType" value="optinCustomView">
+            <input type="hidden" id="emailReportId" name="emailReportId" value="">
+            <input type="hidden" id="formType" name="formType" value="QuickForm">
+            <input type="hidden" name="zx" id="cmpZuid" value="12c058774">
+            <input type="hidden" name="zcvers" value="3.0">
+            <input type="hidden" name="oldListIds" id="allCheckedListIds" value="">
+            <input type="hidden" id="mode" name="mode" value="OptinCreateView">
+            <input type="hidden" id="zcld" name="zcld" value="1a667b56a0dd80f5">
+            <input type="hidden" id="document_domain" value="">
+            <input type="hidden" id="zc_Url" value="publ.maillist-manage.com">
+            <input type="hidden" id="new_optin_response_in" value="0">
+            <input type="hidden" id="duplicate_optin_response_in" value="0">
+            <input type="hidden" name="zc_trackCode" id="zc_trackCode" value="ZCFORMVIEW">
+            <input type="hidden" id="zc_formIx" name="zc_formIx" value="f0ece739461d8d75d1dcbe3c2647fb9baea1ec579fb52ec3">
+            <input type="hidden" id="viewFrom" value="URL_ACTION">
+            <input type="hidden" id="scriptless" name="scriptless" value="yes">
         </form>
     </div>
+    <script>
+        var email = document.getElementById("EMBED_FORM_EMAIL_LABEL");
+
+        email.addEventListener("input", function (event) {
+        if (email.validity.typeMismatch) {
+            email.setCustomValidity("Formato invalido de e-mail!");
+        } else {
+            email.setCustomValidity("");
+        }
+        });
+    </script>
     {% endif %}
     
 </div>
