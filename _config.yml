@@ -10,7 +10,7 @@ google_analytics: 'UA-188126338-1'
 mailchimp-list: 'https://canaldifora.us7.list-manage.com/subscribe/post?u=eb5ba1ecaefa643165a64733f&amp;id=c56856ab79'
 include: ["_pages"]
 permalink: /post/:title/
-email: canaldifora@gmail.com
+email: contato@canaldifora.com
 lang: pt_BR
 
 # Authors
@@ -19,7 +19,7 @@ authors:
     name: Diego Barreto
     display_name: Diego Barreto
     avatar: assets/images/avatar.png
-    email: canaldifora@gmail.com
+    email: contato@canaldifora.com
     instagram: https://www.instagram.com/diegobqb
     twitter: https://twitter.com/diegobqb
     youtube: https://www.youtube.com/channel/UCTT6LqmWV53OdwIJchQvFGg
@@ -43,7 +43,7 @@ jekyll-archives:
     category: '/categorias/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 5
 paginate_path: /page:num/
     
 # Other

@@ -4,7 +4,7 @@ title:  "Crescer no YouTube depende de você"
 author: diegobarreto
 categories: [ Youtube ]
 tags: [ crescer no youtube,criação de conteudo ]
-image: assets/images/posts/2021-01-26/2021-01-26-crescer-no-youtube-depende-de-voce-01.jpg
+image: assets/images/posts/2021-01-26/crescer-no-youtube-depende-de-voce-01.jpg
 ---
 
 É muito comum os criadores de conteúdo para canais do YouTube pensarem que ao criar "bons vídeos" ou que vídeos que deram muito trabalho para produzir e editar vão, necessariamente, dar bons resultados em termos de visualização e engajamento.
