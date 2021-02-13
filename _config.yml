@@ -9,7 +9,7 @@ google_analytics: 'UA-188126338-1'
 #disqus: 'demowebsite'
 mailchimp-list: 'https://canaldifora.us7.list-manage.com/subscribe/post?u=eb5ba1ecaefa643165a64733f&amp;id=c56856ab79'
 include: ["_pages"]
-permalink: /post/:title/
+permalink: /blog/post/:title/
 email: contato@canaldifora.com
 lang: pt_BR
 
@@ -40,11 +40,11 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/categorias/:name/'
+    category: '/blog/categorias/:name/'
     
 # Pagination 
 paginate: 5
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
     
 # Other
 highlighter: rouge

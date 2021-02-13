@@ -1,21 +1,19 @@
 ---
-layout: default
-title: Home
+layout: page
 ---
 
-<!-- Posts Index
-================================================== -->
-<div class="blog-grid-container">
-    {% for post in paginator.posts %}
-        {% include postbox.html %}
-    {% endfor %}
-</div>
+<p>Bem-vindo ao site Canal Di Fora, em conjunto com o canal do YouTube <a target="_blank" href='https://www.youtube.com/c/DiFora'>Di Fora</a>.</p>
 
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
+<p>Aqui nós falamos muito sobre criação de conteúdo e estratégias para crescimento de canais no YouTube. O site e o canal se complementam e a meta desse projeto é conseguir criar uma compilação organizada de conteúdo e informação acessível em língua portuguesa.</p>
 
+<p><b>Temos como público-alvo os criadores de conteúdo que desejam levar a sério o seu canal e desejam crescer de forma orgânica na plataforma utilizando estratégias e ferramentas adequadas.</b></p>
+
+<p>A idéia de criar o Canal Di Fora surgiu quando eu comecei a estudar a plataforma YouTube para o meu primeiro canal e acabei me deparando com muita informação em inglês, mas nem tanta informação assim em português.</p>
+
+<p>Apesar de um vídeo do canal no YouTube ou um post aqui na seção de <a href='/blog/'>Blog</a> ser algo curto e direto, o nosso objetivo aqui é tentar organizar da melhor forma possível para que alguém com uma dúvida pontual possa achar o que precisa, mas também que um pessoa querendo aprender do zero também possa encontrar o que está precisando.</p>
+
+<h6>Post mais recente do <a href='/blog/'>Blog</a></h6>
+
+{% for post in site.posts limit:1 %}
+    {% include postbox.html %}
+{% endfor %}
