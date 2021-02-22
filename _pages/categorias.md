@@ -1,5 +1,6 @@
 ---
 layout: categories
 title: Categorias
-permalink: /categorias
+permalink: /blog/categorias
+sitemap: false
 ---

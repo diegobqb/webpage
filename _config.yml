@@ -35,12 +35,12 @@ plugins:
   - jekyll-figure
     
 # Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/blog/categorias/:name/'
+#jekyll-archives:
+#  enabled:
+#    - categories
+#  layout: archive
+#  permalinks:
+#    category: '/blog/categorias/:name/'
     
 # Pagination 
 paginate: 6
