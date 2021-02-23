@@ -2,7 +2,7 @@
 layout: post
 title:  "Crescer no YouTube depende de você"
 author: diegobarreto
-categories: [ Crescer no youtube ]
+categories: [crescer no youtube]
 #tags: [ crescer no youtube,criação de conteudo ]
 image: assets/images/posts/2021-01-26/crescer-no-youtube-depende-de-voce-01.jpg
 ---

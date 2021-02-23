@@ -2,7 +2,7 @@
 layout: post
 title:  "Como fazer SEO para YouTube em 2021: Aula Completa"
 author: diegobarreto
-categories: [ crescer no youtube ]
+categories: [crescer no youtube]
 #tags: [criação de conteúdo, crescre no youtube]
 image: assets/images/posts/2021-02-18/como-fazer-seo-para-youtube-em-2021-aula-completa-01.png
 ---
