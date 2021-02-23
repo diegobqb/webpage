@@ -2,8 +2,8 @@
 layout: post
 title:  "Como fazer seu vídeo ser recomendado no YouTube em 2021"
 author: diegobarreto
-categories: [ Youtube ]
-tags: [ crescer no youtube, youtube analytcs ]
+categories: [crescer no youtube]
+#tags: [ crescer no youtube, youtube analytcs ]
 image: assets/images/posts/2021-02-04/como-fazer-seu-vídeo-ser-recomendado-no-youtube-em-2021-01.png
 ---
 

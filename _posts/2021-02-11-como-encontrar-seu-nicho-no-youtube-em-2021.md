@@ -2,8 +2,8 @@
 layout: post
 title:  "Como encontrar seu nicho no YouTube em 2021"
 author: diegobarreto
-categories: [ Youtube ]
-tags: [criação de conteúdo, crescre no youtube]
+categories: [criação de conteúdo]
+#tags: [criação de conteúdo, crescre no youtube]
 image: assets/images/posts/2021-02-11/como-encontrar-seu-nicho-no-youtube-em-2021-01.png
 ---
 

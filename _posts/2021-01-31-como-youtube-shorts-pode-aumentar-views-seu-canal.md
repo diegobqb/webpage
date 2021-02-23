@@ -2,8 +2,8 @@
 layout: post
 title:  "Como o Youtube Shorts pode aumentar as vizualizações do seu canal"
 author: diegobarreto
-categories: [ Youtube ]
-tags: [ crescer no youtube,youtube shorts ]
+categories: [ youtube shorts ]
+#tags: [ crescer no youtube,youtube shorts ]
 image: assets/images/posts/2021-01-31/como-youtube-shorts-pode-aumentar-views-seu-canal-01.jpeg
 ---
 

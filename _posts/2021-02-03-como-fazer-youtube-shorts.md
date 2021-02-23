@@ -2,8 +2,8 @@
 layout: post
 title:  "Como fazer YouTube Shorts"
 author: diegobarreto
-categories: [ Youtube ]
-tags: [ crescer no youtube, youtube shorts ]
+categories: [ youtube shorts ]
+#tags: [ crescer no youtube, youtube shorts ]
 image: assets/images/posts/2021-02-03/como-fazer-youtube-shorts-01.png
 ---
 

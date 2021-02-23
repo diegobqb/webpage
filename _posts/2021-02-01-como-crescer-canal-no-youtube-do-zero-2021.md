@@ -2,8 +2,8 @@
 layout: post
 title:  "Como crescer canal no YouTube do zero em 2021"
 author: diegobarreto
-categories: [ Youtube ]
-tags: [ crescer no youtube ]
+categories: [ crescer no youtube ]
+#tags: [ crescer no youtube ]
 image: assets/images/posts/2021-02-01/como-crescer-canal-no-youtube-do-zero-2021-01.png
 ---
 

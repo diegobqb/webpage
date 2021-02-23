@@ -2,8 +2,8 @@
 layout: post
 title:  "Formas de ganhar dinheiro com o seu canal do YouTube"
 author: diegobarreto
-categories: [ Youtube ]
-tags: [monetizar canal no youtube]
+categories: [monetizar canal no youtube]
+#tags: [monetizar canal no youtube]
 image: assets/images/posts/2021-02-22/formas-de-ganhar-dinheiro-com-o-seu-canal-do-youtube-01.png
 ---
 
