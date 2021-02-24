@@ -7,7 +7,7 @@ categories: [youtube shorts]
 image: assets/images/posts/2021-02-03/como-fazer-youtube-shorts-01.png
 ---
 
-Eu já fiz um [post](/post/como-youtube-shorts-pode-aumentar-views-seu-canal) aqui no blog sobre Youtube Shorts, mas dessa vez eu trouxe um vídeo também para que fique bem clara a estratégia de uso do YouTube Shorts no seu canal.
+Eu já fiz um [post](/blog/post/como-youtube-shorts-pode-aumentar-views-seu-canal) aqui no blog sobre Youtube Shorts, mas dessa vez eu trouxe um vídeo também para que fique bem clara a estratégia de uso do YouTube Shorts no seu canal.
 
 Eu vou deixar aqui o vídeo, caso você se interesse em ver uma explicação mais detalhada:
 <div class="embed-responsive embed-responsive-16by9">

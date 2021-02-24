@@ -11,7 +11,7 @@ Já foi confirmado pelo [post do Neal Mohan](https://blog.youtube/inside-youtube
 
 Isso significa que os criadores de conteúdo vão ter acesso à famosa câmera de vídeos curtos no aplicativo mobile do YouTube, nos moldes do TikTok e Instagram Reels.
 
-Tanto aqui no [blog](/post/como-youtube-shorts-pode-aumentar-views-seu-canal) quanto lá no nosso [canal do YouTube](https://www.youtube.com/watch?v=KqTc96roVm8&list=PLOAN5jJc0VEWd5MaypLjxgxlSPp85RxGV) eu venho batendo na tecla de que os criadores deveriam utilizar o YouTube Shorts nos seus canais. Tentar entender como utilisar esse novo formato de vídeo curto para criar conteúdos que se integram aos outros formatos existentes no seu canal.
+Tanto aqui no [blog](/blog/post/como-youtube-shorts-pode-aumentar-views-seu-canal) quanto lá no nosso [canal do YouTube](https://www.youtube.com/watch?v=KqTc96roVm8&list=PLOAN5jJc0VEWd5MaypLjxgxlSPp85RxGV){:target="_blank"} eu venho batendo na tecla de que os criadores deveriam utilizar o YouTube Shorts nos seus canais. Tentar entender como utilisar esse novo formato de vídeo curto para criar conteúdos que se integram aos outros formatos existentes no seu canal.
 
 Se você parar para pensar, os criadores de conteúdo que conseguem utilizar bem a plataforma YouTube já fazem diversos formatos de conteúdo: **vídeos, lives, stories e posts na aba comunidade**. O YouTube Shorts é mais um formato disponível para você, mas como é um formato muito recente e ainda está em fase beta, a concorrência é bem menor.
 
